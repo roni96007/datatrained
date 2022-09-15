@@ -1,0 +1,2 @@
+i'm learning input and output operation
+ just check the 2ndline once
